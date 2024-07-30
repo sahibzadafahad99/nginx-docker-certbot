@@ -30,6 +30,6 @@ This repository contains shell scripts to automate the installation of NGINX, Do
 
 3. Run the script:
     ```bash
-    ./install_nginx_docker_certbot_centos.sh
+    ./nginx-docker-certbot.sh
     ```
 

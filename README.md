@@ -19,7 +19,7 @@ This repository contains shell scripts to automate the installation of NGINX, Do
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/install-scripts.git
+    git clone [https://github.com/sahibzadafahad99/nginx-docker-certbot]
     cd install-scripts
     ```
 

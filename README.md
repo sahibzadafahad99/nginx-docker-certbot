@@ -28,4 +28,10 @@ This repository contains shell scripts to automate the installation of NGINX, Do
     chmod +x install_nginx_docker_certbot_ubuntu.sh
     ```
 
-3. Run the
+3. Run the script:
+    ```bash
+    ./install_nginx_docker_certbot_centos.sh
+    ```
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

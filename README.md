@@ -20,12 +20,12 @@ This repository contains shell scripts to automate the installation of NGINX, Do
 1. Clone this repository to your local machine:
     ```bash
     git clone https://github.com/sahibzadafahad99/nginx-docker-certbot
-    cd install-scripts
+    cd ubuntu22.04
     ```
 
 2. Make the script executable:
     ```bash
-    chmod +x install_nginx_docker_certbot_ubuntu.sh
+    chmod +x nginx-docker-certbot.sh
     ```
 
 3. Run the script:

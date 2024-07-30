@@ -33,5 +33,3 @@ This repository contains shell scripts to automate the installation of NGINX, Do
     ./install_nginx_docker_certbot_centos.sh
     ```
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
